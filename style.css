@@ -1,0 +1,28 @@
+table,th,td,tr{
+    border: 2px solid white; padding: 0 5px 5px 5px ; border-collapse: collapse;
+}
+
+th{
+height: 170px;width: 170px;
+}
+.first{
+    height: 10px; color: black;
+}
+body{
+    color: white;
+}
+.ps{
+    background-color: dodgerblue;
+}
+.aq{
+background-color: deeppink;
+}
+.ls{
+    background-color: chartreuse;
+}
+.es{
+    background-color: aquamarine;
+}
+.oa{
+    background-color: orange;
+}
