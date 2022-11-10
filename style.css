@@ -3,6 +3,10 @@
     background-color:#E63E6D ;
     height: 900px;
 }
+div{
+    margine:0px;
+}
+
 .link{
     margin: 20px;
     position:relative;
